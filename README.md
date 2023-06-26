@@ -1,2 +1,2 @@
 # hello-world
-Git assignment
+**Git assignment for Code-Day Labs 2023**
